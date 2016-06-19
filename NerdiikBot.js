@@ -241,8 +241,8 @@
         name: "NerdiikBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
-        cmdLink: "",
-        chatLink: "",
+        cmdLink: "http://tinyurl.com/zklf23k",
+        chatLink: "https://rawgit.com/Repiboy/NerdiikBot/master/NerdiikBotczech.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -250,7 +250,7 @@
         settings: {
             botName: "NerdiikBot",
             language: "czech",
-            chatLink: "",
+            chatLink: "https://rawgit.com/Repiboy/NerdiikBot/master/NerdiikBotczech.json",
             scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 100, // 1-200
@@ -261,7 +261,7 @@
             smartSkip: true,
             cmdDeletion: true,
             maximumAfk: 120,
-            afkRemoval: true,
+            afkRemoval: false,
             maximumDc: 120,
             bouncerPlus: true,
             blacklistEnabled: true,
