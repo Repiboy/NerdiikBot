@@ -99,7 +99,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/Dark1997/FRbot/master/lang/cz.json", function (json) {
+        $.get("https://rawgit.com/Repiboy/NerdiikBot/master/lang/cz", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
