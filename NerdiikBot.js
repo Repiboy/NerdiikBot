@@ -262,7 +262,7 @@
             cmdDeletion: true,
             maximumAfk: 120,
             afkRemoval: false,
-            maximumDc: 120,
+            maximumDc: 60,
             bouncerPlus: true,
             blacklistEnabled: true,
             lockdownEnabled: false,
