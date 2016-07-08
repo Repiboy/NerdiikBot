@@ -329,7 +329,7 @@
     "unmuterank": "/me [@%%NAME%%] Nemůžeš zrušit umlčení osobě se stejnou nebo vyšší hodností.",
     "commandscd": "/me [@%%NAME%%] Cooldown příkazů pro uživatele nastaven na %%TIME%% sekund.",
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ wootů: %%WOOT%%, mehů: %%MEHS%%, poměr (w/m): %%RATIO%%.",
-    "website": "/me Prosím navštivte naše webové stránky: http://tinyurl.com/gs88g43",
+    "website": "/me Prosím navštivte naše webové stránky: %%LINK%%",
     "youtube": "/me [%%NAME%%] Dejte nám odběr na youtube: %%LINK%%",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M.",
     "prikazy": "/me Seznam NerdiikBot příkazů: http://tinyurl.com/zklf23k",
