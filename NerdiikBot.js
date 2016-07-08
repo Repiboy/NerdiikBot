@@ -280,7 +280,7 @@
             usercommandsEnabled: true,
             thorCommand: true,
             thorCooldown: 1,
-            skipPosition: 1,
+            skipPosition: 4,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
                 ["op", "This song is on the OP list. "],
