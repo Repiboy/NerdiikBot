@@ -236,9 +236,9 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "2.2.2",
+        version: "3.3.3",
         status: false,
-        name: "NerdiikBot",
+        name: "SHŽ Bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
         cmdLink: "http://tinyurl.com/zklf23k",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "NerdiikBot",
+            botName: "SHŽ Bot",
             language: "czech",
             chatLink: "https://rawgit.com/Repiboy/NerdiikBot/master/NerdiikBotczech.json",
             scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
